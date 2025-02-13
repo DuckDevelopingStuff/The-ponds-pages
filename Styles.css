@@ -1,0 +1,9 @@
+.Bordered {
+  border: 2px inset rgb(0, 0, 0);
+  padding: 10px
+}
+
+body {
+font-family: Arial, Helvetica, sans-serif;
+font-size: large;
+}
