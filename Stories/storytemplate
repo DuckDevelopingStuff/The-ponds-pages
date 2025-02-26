@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <link rel="stylesheet" type="text/css" href="/Styles.css">
+
+</head>
+
+  <body>
+    
+    	<h1>[insert title here]</h1>
+
+      <div class="Bordered">
+
+        <h4> Notes: </h4>
+        <p1>lorem ipsum ida isup oppa dalal darem dini a tello ini ici de</p1>
+
+      </div>
+   
+      <h2>[insert title]</h2>
+      <br>
+      <p1>lorem ipsum ida fale di urem tolo opute inum in fer uno geru po lokiju </p1>
+
+  </body>
+
+</html>
