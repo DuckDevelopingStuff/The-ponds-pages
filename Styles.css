@@ -28,6 +28,18 @@ a:visited {
   color: darkslateblue;
 }
 
+body.dark a:link {
+  color:cornflowerblue;
+}
+
+body.dark a:link {
+  color:aliceblue;
+}
+
+body.dark a:visited {
+  color: cornflowerblue;
+}
+
 h4 {
   color: rgb(0, 0, 0);
   font-size: larger;
