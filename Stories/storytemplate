@@ -12,6 +12,8 @@
     
     	<h1>[insert title here]</h1>
 
+      <a href="/Homepage.html">Back to Homepage</a>
+
       <div class="Bordered">
 
         <h4> Notes: </h4>
