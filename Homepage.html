@@ -2,15 +2,21 @@
 
 <html>
 
-<head>
-  
-  <script>
-    alert('This page is work in progress!');
-  </script>
+  <head>
+    
+    <script>
+      if (!
+        sessionStorage.getItem('alertShown')
+      ) {
+          alert('This page is work in progress!');
+          sessionStorage.setItem('alertShown','true');
+      }
+      
+    </script>
 
-  <link rel="stylesheet" type="text/css" href="Styles.css">
+    <link rel="stylesheet" type="text/css" href="Styles.css">
 
-</head>
+  </head>
 
   <body>
     
@@ -19,11 +25,11 @@
     <p1>Welcome to our web-archive</p1>
     <br>
     
-    <a href="Stories/storytemplate">Find our latest story here</a>
+    <a href="Stories/storytemplate">Find our latest project here</a>
       <!--update this manually-->
     <br>
     
-    <a href="/allstories.html">Find all our stories here</a>
+    <a href="/allstories.html">Find all our project here</a>
     <!--this link doesnt work-->
   
   </body>
