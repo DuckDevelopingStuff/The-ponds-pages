@@ -15,17 +15,17 @@ padding: 0;
 text-align: center;
 }
 
-body.dark {
-  background-color: rgb(40, 40, 40);
-  color: antiquewhite;
-}
-
 a:link {
   color:cornflowerblue;
 }
 
 a:visited {
   color: darkslateblue;
+}
+
+body.dark {
+  background-color: rgb(40, 40, 40);
+  color: antiquewhite;
 }
 
 body.dark a:link {
@@ -39,7 +39,7 @@ body.dark a:link {
 body.dark a:visited {
   color: cornflowerblue;
 }
-
+this dont work yet
 h4 {
   color: rgb(0, 0, 0);
   font-size: larger;

@@ -4,15 +4,7 @@
 
   <head>
     
-    <script>
-      if (!
-        sessionStorage.getItem('alertShown')
-      ) {
-          alert('This page is work in progress!');
-          sessionStorage.setItem('alertShown','true');
-      }
-      
-    </script>
+    <script src="scripts.js"></script>
 
     <link rel="stylesheet" type="text/css" href="Styles.css">
 
@@ -31,7 +23,11 @@
     
     <a href="/allstories.html">Find all our project here</a>
     <!--this link doesnt work-->
-  
+    
+    <button id="dark-mode-btn">Toggle Dark Mode</button>
+
+    <script src="scripts.js"></script>
+
   </body>
 
 </html>

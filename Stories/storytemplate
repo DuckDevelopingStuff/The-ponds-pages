@@ -2,28 +2,32 @@
 
 <html>
 
-<head>
+  <head>
 
-  <link rel="stylesheet" type="text/css" href="/Styles.css">
+    <link rel="stylesheet" type="text/css" href="/Styles.css">
 
-</head>
+  </head>
 
   <body>
     
-    	<h1>[insert title here]</h1>
+    <h1>[insert title here]</h1>
 
-      <a href="/Homepage.html">Back to Homepage</a>
+    <a href="/Homepage.html">Back to Homepage</a>
 
-      <div class="Bordered">
+    <div class="Bordered">
 
-        <h4> Notes: </h4>
-        <p1>lorem ipsum ida isup oppa dalal darem dini a tello ini ici de</p1>
+      <h4>Notes</h4>
+      <li>uno</li>
+      <li>dos</li>
+      <li>tres</li>
 
-      </div>
+    </div>
    
-      <h2>[insert title]</h2>
-      <br>
-      <p1>lorem ipsum ida fale di urem tolo opute inum in fer uno geru po lokiju </p1>
+    <h2>[insert title]</h2>
+    <br>
+    <p1>lorem ipsum ida fale di urem tolo opute inum in fer uno geru po lokiju </p1>
+
+    <script src="scripts.js"></script>
 
   </body>
 
